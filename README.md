@@ -28,16 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-### 🏆 Awards & Projects
-
-- 🥇 **ITURO 2023** – 1st place in Traffic Robot Category  
-- 🥇 **BRO-CUP / KELEBEKRO** – Multiple awards in sumo & maze-solving competitions  
-- 🌐 **Microsoft Women in AI Hackathon (2024)** – AI-based travel planner using Azure  
-- 📰 **Anadolu Agency Hackathon (2024)** – AI-powered news generation platform  
-- 📱 **Huawei R&D Coding Marathon (2023)** – Mobile app recommending DIY videos based on photo input  
-- 🔍 **Akbank AI Academy** – Drought prediction using AI & Azure  
 
 ---
 

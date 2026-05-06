@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Yusuf 👋! </h1>
 <p align="center">
   <i>A passionate developer with a background in Unreal Engine, Python, and automation systems.</i><br/>
-  🎓 Currently studying at a <b>project-based vocational school</b> (GPA: 3.56)
+  🎓 Currently studying at a <b>project-based vocational school</b>
 </p>
 
 ---

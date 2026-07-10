@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Yusuf 👋! </h1>
 <p align="center">
-  <i>A passionate developer with a background in Unreal Engine, Python, and automation systems.</i><br/>
+  <i>A passionate developer with a background in Unreal Engine, Python, CNC and PLC systems.</i><br/>
   🎓 Currently studying at a <b>project-based vocational school</b>
 </p>
 
@@ -10,7 +10,7 @@
 
 - 🎮 GameAthon 5.0, Global Game Jam (GGJ) 26, and many other game jam experiences.
 - 💡 Promotional experience in the field of automation at the İzmir Trade Fair 
-- 🌍 Participant of international hackathons and a member of the organising team for the school’s TEDx event
+- 🌍 Participant of international hackathons and co-organizer for the school’s TEDx event
 - 🔬 currently working in the fields of automation, PLCs, game development and software development
 
 ---
